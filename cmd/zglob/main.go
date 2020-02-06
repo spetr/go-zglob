@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mattn/go-zglob"
+	"github.com/spetr/go-zglob"
 )
 
 func main() {
